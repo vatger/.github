@@ -7,7 +7,7 @@ Our community is open to everyone, whether you're a seasoned pilot or a new air 
 
 We welcome contributions from anyone who is interested in helping to improve our community and its tools. To get started, simply fork one of our projects and make your changes locally. Once you're happy with your changes, submit a pull request and we'll review it as soon as we can.
 
-If you're not sure where to start, check out our [list of open issues (TODO)](https://github.com/vatger) or reach out to one of our maintainers. We're always happy to help new contributors get started.
+If you're not sure where to start, check out our [list of open issues](https://github.com/search?q=org%3Avatger+&type=issues) or reach out to one of our maintainers. We're always happy to help new contributors get started.
 
 ## 🌍 Connect with us
 
