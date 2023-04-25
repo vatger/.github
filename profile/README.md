@@ -15,7 +15,7 @@ Please note that only admins can create new repositories. If you have an idea fo
 
 If you're interested in learning more about VATSIM Germany, or just want to connect with our community, you can find us in a number of places:
 
-- 💻 Our [website](https://www.vatsim-germany.org/) has information about our community, events, and resources.
+- 💻 Our <a href="https://www.vatsim-germany.org/" target="_blank">website</a> has information about our community, events, and resources.
 - 📰 Our [forum](https://board.vatsim-germany.org/) in which you can chat with other members of the community.
 
 We look forward to work with you.
