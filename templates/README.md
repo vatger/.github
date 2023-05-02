@@ -5,10 +5,10 @@ An example of this can be found [here](https://github.com/vatger/teamspeak-stati
 
 ## Contact
 
-|        Name         | Responsible for |                      Contact                      |
-|:-------------------:|:---------------:|:-------------------------------------------------:|
-|   Nikolas Görlitz   |    Frontend     |  `email@example.com` or `Example#1234` (Discord)  |
-|  Leon Kleinschmidt  |     Backend     |                `email@example.com`                |
+|      Name    | Responsible for |                      Contact                      |
+|:------------:|:---------------:|:-------------------------------------------------:|
+|   Nikolas G. |    Frontend     |  `email@example.com` or `Example#1234` (Discord)  |
+|     Leon .   |     Backend     |                `email@example.com`                |
 
 ## Prerequisites
 - **Node.js** (https://nodejs.org/en)
