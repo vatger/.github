@@ -11,6 +11,10 @@ If you're not sure where to start, check out our [list of open issues](https://g
 
 🚧 Please note that only admins can create new repositories. If you have an idea for a new project, please reach out to one of our admins and we'll be happy to create a new repository for you.
 
+> **Note**
+>
+> If you wish to create a new project and/or repository, make sure to check out our project-guidelines [here](https://github.com/vatger/.github/wiki/Project-Guidelines)!
+
 ## 🌍 Connect with us
 
 If you're interested in learning more about VATSIM Germany, or just want to connect with our community, you can find us in a number of places:
