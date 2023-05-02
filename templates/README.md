@@ -8,7 +8,7 @@ An example of this can be found [here](https://github.com/vatger/teamspeak-stati
 |      Name    | Responsible for |                      Contact                      |
 |:------------:|:---------------:|:-------------------------------------------------:|
 |   Nikolas G. |    Frontend     |  `email@example.com` or `Example#1234` (Discord)  |
-|     Leon .   |     Backend     |                `email@example.com`                |
+|     Leon K.   |     Backend     |                `email@example.com`                |
 
 ## Prerequisites
 - **Node.js** (https://nodejs.org/en)
