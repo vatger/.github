@@ -32,4 +32,4 @@ To get started, [create an issue](https://github.com/vatger/[repository-name]/is
 By contributing to this repository, you agree that your contributions will be licensed under the license that this repository is published under. 
 This can be found on the right side of the GitHub application located under the "about" section. 
 
-Thank you for contributing to [Repository Name]!
+Thank you for contributing!
