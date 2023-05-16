@@ -9,10 +9,10 @@ The naming convention is as follows:
 **Option A:** First name + surname  
 **Option B:** First name + first letter of surname + Vatsim ID  
 
-|      Name    | Responsible for |                      Contact                      |
-|:------------:|:---------------:|:-------------------------------------------------:|
-|   Nikolas G. |    Frontend     |  `email@example.com` or `Example#1234` (Discord)  |
-|     Leon K.   |     Backend     |                `email@example.com`                |
+|         Name         | Responsible for |                     Contact                     |
+| :------------------: | :-------------: | :---------------------------------------------: |
+| Nikolas G. - 1373921 |    Frontend     | `email@example.com` or `Example#1234` (Discord) |
+|  Leon K. - 1424877   |     Backend     |               `email@example.com`               |
 
 ## Prerequisites
 - **Node.js** (https://nodejs.org/en)
